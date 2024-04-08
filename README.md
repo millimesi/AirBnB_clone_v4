@@ -8,6 +8,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Update attributes of an object
 * Destroy an object
 * connect with hTml to create dynamic website
+* it is awesome project
 
 ## Table of Content
 * [Environment](#environment)
